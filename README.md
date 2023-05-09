@@ -1,6 +1,6 @@
 # MYTH-Workshop
 The repository has the labs of the MYTH workshop introduced by Steeve Hover the founder of Redwood EDA. The labs are written in TL-Verilog and the simulation is done on Makerchip.
-UPDATE:
+- UPDATE:
 The Verilog code is added too with simulation done on Modelsim.
 ### 1st Lab: Simple counter
 ![Screenshot (26)](https://user-images.githubusercontent.com/96621514/236905688-ae6a0a7e-b9dc-4bbe-b81e-43532acd1cff.png)
@@ -13,4 +13,7 @@ The Verilog code is added too with simulation done on Modelsim.
 
 ### 3rd Lab: Pipeline lab
 ![Screenshot (38)](https://user-images.githubusercontent.com/96621514/237061312-39ef8cf1-394a-4861-8299-920af854184d.png)
+
+### 4th Lab: Caclculator with counter
+![Screenshot (42)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/4886133a-3f31-4d80-a4c6-6a5e8760044b)
 
