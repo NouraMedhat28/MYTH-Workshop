@@ -10,3 +10,7 @@ The Verilog code is added too with simulation done on Modelsim.
 ### 2nd Lab: Fibonacci series
 ![Screenshot (30)](https://user-images.githubusercontent.com/96621514/236907826-cb6db454-0412-4b98-b6bd-f2709faf2bac.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/96621514/236926131-a19c6e71-992c-4061-bb28-674ebe6d8f69.png)
+
+### 3rd Lab: Pipeline lab
+![Screenshot (38)](https://user-images.githubusercontent.com/96621514/237061312-39ef8cf1-394a-4861-8299-920af854184d.png)
+
