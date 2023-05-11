@@ -17,3 +17,7 @@ The Verilog code is added too with simulation done on Modelsim.
 ### 4th Lab: Caclculator with counter
 ![Screenshot (42)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/4886133a-3f31-4d80-a4c6-6a5e8760044b)
 
+### 5th Lab: Pythagoras (Pipelined)
+![Screenshot (49)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/5e2cbf29-6c8a-4f6b-b8e0-9cbbf734325c)
+
+
