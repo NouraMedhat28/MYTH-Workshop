@@ -20,4 +20,7 @@ The Verilog code is added too with simulation done on Modelsim.
 ### 5th Lab: Pythagoras (Pipelined)
 ![Screenshot (49)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/5e2cbf29-6c8a-4f6b-b8e0-9cbbf734325c)
 
+### 6th Lab: Accumulating Distance
+![Screenshot (53)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/f10e86cd-ea35-4a35-9f53-9c236fbf6d45)
+
 
