@@ -33,6 +33,7 @@ All the labs after the third one are applications of the pipelining idea.
 ![Program Counter](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/624e048c-1a36-4384-9955-8ea7a2bbe8bf)
 ### 2nd Lab: Instruction memory connected to the PC
 ![InstructionMemoryWithPC](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/350f79f5-0f63-4c66-9cd3-b531534dcd3f)
-### 3rd Lab: Instruction Immediate Decode
+
+### 4th Lab: Instruction Field Decode
 ![Screenshot (65)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/4caa8880-a311-4255-8676-f1bc6aa450d6)
 
