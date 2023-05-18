@@ -52,5 +52,8 @@ All the labs after the third one are applications of the pipelining idea.
 ![Screenshot (80)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/f35c0454-06e8-4a42-b43a-8585a6ffefa8)
 ### 11th Lab: Completing Branch Instruction
 ![Screenshot (82)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/e8c8f22c-8c0f-49cf-a708-6aaa234eb361)
+### 12th Lab: Testbench
+![Screenshot (84)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/e00cbd25-0842-488c-8eb5-49d681e5eb12)
+
 
 
