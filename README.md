@@ -37,4 +37,8 @@ All the labs after the third one are applications of the pipelining idea.
 ![Screenshot (67)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/1c9bdf07-8fd8-4958-af07-8592e5a31239)
 ### 4th Lab: Instruction Field Decode
 ![Screenshot (65)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/4caa8880-a311-4255-8676-f1bc6aa450d6)
+### 5th Lab: Instruction Type Decode
+![Screenshot (69)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/cc0ce7c2-ad0b-4cda-becb-a6da14b1f253)
+
+
 
