@@ -29,6 +29,7 @@ All the labs after the third one are applications of the pipelining idea.
 
 #### ------------------------------------------------------------------------------------------------------------------
 ## Day4
+#### In day4, I have implemented each part of the RISC-V step by step. The last lab was to implement a testbench to test the code.
 ### 1st Lab: Program Counter
 ![Program Counter](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/624e048c-1a36-4384-9955-8ea7a2bbe8bf)
 ### 2nd Lab: Instruction memory connected to the PC
@@ -54,6 +55,6 @@ All the labs after the third one are applications of the pipelining idea.
 ![Screenshot (82)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/e8c8f22c-8c0f-49cf-a708-6aaa234eb361)
 ### 12th Lab: Testbench
 ![Screenshot (84)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/e00cbd25-0842-488c-8eb5-49d681e5eb12)
-
+##### -----------------------------------------------------------------------------------------------------------------
 
 
