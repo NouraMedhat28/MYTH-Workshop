@@ -46,6 +46,9 @@ All the labs after the third one are applications of the pipelining idea.
 ### 8th Lab: ALU 
 - NOTE: As the diagram is getting more complicated, I just took screenshot of the part of the diagram that is related to the ALU 
 ![Screenshot (75)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/161794b6-559a-4c42-b7c5-e75eb5c7ba60)
+### 9th Lab: Register File Write Part
+![Screenshot (78)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/c30b25ed-73f3-482f-8f07-a7c9fe409de8)
+
 
 
 
