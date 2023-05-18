@@ -50,6 +50,7 @@ All the labs after the third one are applications of the pipelining idea.
 ![Screenshot (78)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/c30b25ed-73f3-482f-8f07-a7c9fe409de8)
 ### 10th Lab: Adding The Hardware That Supports Branch Instruction
 ![Screenshot (80)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/f35c0454-06e8-4a42-b43a-8585a6ffefa8)
-
+### 11th Lab: Completing Branch Instruction
+![Screenshot (82)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/e8c8f22c-8c0f-49cf-a708-6aaa234eb361)
 
 
