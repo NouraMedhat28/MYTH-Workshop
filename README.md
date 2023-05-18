@@ -2,6 +2,8 @@
 The repository has the labs of the MYTH workshop introduced by Steeve Hover the founder of Redwood EDA. The labs are written in TL-Verilog and the simulation is done on Makerchip.
 - UPDATE:
 The Verilog code is added too with simulation done on Modelsim.
+- NOTE:
+All the labs after the third one are applications of the pipelining idea.
 ### 1st Lab: Simple counter
 ![Screenshot (26)](https://user-images.githubusercontent.com/96621514/236905688-ae6a0a7e-b9dc-4bbe-b81e-43532acd1cff.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/96621514/236926150-c53afec3-9347-49e6-abcf-edc82beb9d62.png)
@@ -19,5 +21,8 @@ The Verilog code is added too with simulation done on Modelsim.
 
 ### 5th Lab: Pythagoras (Pipelined)
 ![Screenshot (49)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/5e2cbf29-6c8a-4f6b-b8e0-9cbbf734325c)
+
+### 6th Lab: Accumulating Distance
+![Screenshot (53)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/f10e86cd-ea35-4a35-9f53-9c236fbf6d45)
 
 
