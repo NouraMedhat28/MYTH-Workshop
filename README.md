@@ -43,5 +43,9 @@ All the labs after the third one are applications of the pipelining idea.
 ![Screenshot (71)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/7e8c67c8-a743-4a69-b6f7-04672b1de295)
 ### 7th Lab: Register File Part2
 ![Screenshot (73)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/2aa431f2-b056-4899-be32-afa1e4f46fa8)
+### 8th Lab: ALU 
+- NOTE: As the diagram is getting more complicated, I just took screenshot of the part of the diagram that is related to the ALU 
+![Screenshot (75)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/161794b6-559a-4c42-b7c5-e75eb5c7ba60)
+
 
 
