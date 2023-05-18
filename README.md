@@ -41,6 +41,7 @@ All the labs after the third one are applications of the pipelining idea.
 ![Screenshot (69)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/cc0ce7c2-ad0b-4cda-becb-a6da14b1f253)
 ### 6th Lab: Register File Part1
 ![Screenshot (71)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/7e8c67c8-a743-4a69-b6f7-04672b1de295)
-
+### 7th Lab: Register File Part2
+![Screenshot (73)](https://github.com/NouraMedhat28/MYTH-Workshop/assets/96621514/2aa431f2-b056-4899-be32-afa1e4f46fa8)
 
 
