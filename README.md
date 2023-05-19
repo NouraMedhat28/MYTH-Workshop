@@ -1,5 +1,5 @@
 # MYTH-Workshop
-The repository has the labs of the MYTH workshop introduced by Steeve Hover the founder of Redwood EDA. The labs are written in TL-Verilog and the simulation is done on Makerchip.
+The repository has the labs of the MYTH workshop introduced by Steve Hoover the founder of Redwood EDA. The labs are written in TL-Verilog and the simulation is done on Makerchip.
 - UPDATE:
 The Verilog code is added too with simulation done on Modelsim for day3.
 - NOTE:
